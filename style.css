@@ -5,7 +5,7 @@
     color: #6c6b6b;
 }
 
-header {
+.main-visual {
     background-image: url(img/mv.jpg);
     background-position: bottom;
     background-size: cover;
@@ -13,13 +13,13 @@ header {
     height: 400px;
 }
 
-.main-contents {
+main {
     width: 840px;
-    padding: 20px 0 50px 0;
-    margin: 0 auto;
+    margin: 50px auto;
 }
 
 .main-item {
-    padding: 30px 0;
+    padding-bottom: 30px;
+    margin-bottom: 30px;
     border-bottom: 1px solid #6c6b6b;
 }
